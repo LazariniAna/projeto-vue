@@ -86,7 +86,7 @@ Certifique-se de ter os seguintes itens instalados:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/loja-online-dashboard.git
+   git clone https://github.com/LazariniAna/projeto-vue.git
 
 2. **Instalar dependencias:**
 
